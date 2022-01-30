@@ -1,0 +1,32 @@
+.banner {
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: center;
+    background-color: blue;
+}
+
+td {
+    border: 5px solid black;
+    
+}
+
+img {
+    width: 500px;
+}
+
+h2 {
+    position: relative;
+    left: 750px;
+    bottom: 500px;
+}
+
+#about-cats {
+    width: 500px;
+    position: relative;
+    left: 650px;
+    bottom: 500px;
+}
+
+#footer {
+    text-align: center;
+}
